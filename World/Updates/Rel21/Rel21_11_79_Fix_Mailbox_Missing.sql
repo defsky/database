@@ -33,6 +33,7 @@ BEGIN
     SET @cNewVersion = '21';
     SET @cNewStructure = '11';
     SET @cNewContent = '79';
+	
                         -- DESCRIPTION IS 30 Characters MAX    
     SET @cNewDescription = 'Fix Mailbox Missing';
 
